@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Interaction & Messaging Backend (Node.js + Express + PostgreSQL)
 
 ## Quick start
